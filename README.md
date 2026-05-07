@@ -5,10 +5,10 @@
 <div align="center">
 
 <!-- ============================================ -->
-<!-- ANIMATED HEADER BANNER -->
+<!-- CUSTOM HEADER BANNER -->
 <!-- ============================================ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=FIKRUL%20HANIF%20ALGHAZALI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20Developer%20%7C%20UI/UX%20Enthusiast%20%7C%20Digital%20Creator&descSize=16&descAlignY=51"/>
+<img width="100%" src="./img/github-header-banner.png" alt="Header Banner"/>
 
 <!-- ============================================ -->
 <!-- GLOWING DIVIDER -->
@@ -96,7 +96,23 @@ const fikrulHanif = {
   </a>
 </p>
 
-### 💫 **Skill Breakdown**
+### � **Frameworks & Libraries**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=codeigniter,laravel,flutter,react,astro&theme=dark&perline=5" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CodeIgniter4-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter4" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+</p>
+
+### �💫 **Skill Breakdown**
 
 <table align="center">
   <tr>
@@ -112,6 +128,10 @@ const fikrulHanif = {
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
       <br><strong>GitHub</strong>
     </td>
+    <td align="center" width="200">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br><strong>React</strong>
+    </td>
   </tr>
   <tr>
     <td align="center" width="200">
@@ -125,6 +145,10 @@ const fikrulHanif = {
     <td align="center" width="200">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="65" height="65" alt="PHP" />
       <br><strong>PHP</strong>
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="65" height="65" alt="Laravel" />
+      <br><strong>Laravel</strong>
     </td>
   </tr>
 </table>
