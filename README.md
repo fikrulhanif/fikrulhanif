@@ -239,7 +239,7 @@ My journey in tech started with curiosity about how websites work, and it has ev
 
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px" height="32px"> Contribution Snake Game
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px" height="32px"> Activity & Contribution
 
 <div align="center">
 
@@ -260,59 +260,6 @@ My journey in tech started with curiosity about how websites work, and it has ev
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
-
-## Projects
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"> Golden Shoes</h3>
-      <div align="center">
-        <a href="https://github.com/fikrulhanif/golden-shoes" target="_blank">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-00F7F7?style=for-the-badge&logo=github&logoColor=black" alt="View Project" />
-        </a>
-        <br><br>
-        <p><strong>Modern E-Commerce Platform</strong></p>
-        <p> Sleek & responsive design</p>
-        <p> Advanced shopping cart system</p>
-        <p> Secure payment integration</p>
-        <p> Mobile-first approach</p>
-        <p> Lightning-fast performance</p>
-        <br>
-        <p>
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-          <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        </p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"> VeloRent</h3>
-      <div align="center">
-        <a href="https://github.com/fikrulhanif/velorent" target="_blank">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-FF6D00?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-        </a>
-        <br><br>
-        <p><strong>Premium Luxury Car Rental System</strong></p>
-        <p> Exclusive vehicle catalog</p>
-        <p> Smart booking management</p>
-        <p> User authentication system</p>
-        <p> Admin dashboard panel</p>
-        <p> Secure transaction handling</p>
-        <br>
-        <p>
-          <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
 
 <!-- ============================================ -->
 <!-- GLOWING DIVIDER -->
